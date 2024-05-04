@@ -759,7 +759,7 @@ span {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 802px) {
   .header {
     background-color: var(--bg-color);
   }
