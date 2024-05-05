@@ -757,6 +757,7 @@ span {
   .footer {
     padding: 2rem 4rem;
   }
+  
 }
 
 @media (max-width: 802px) {
@@ -770,7 +771,9 @@ span {
   .home {
     background-image: none;
   }
-
+ .heading {
+        margin-top: 5.5rem;
+  }
   .navbar {
     position: absolute;
     top: 100%;
